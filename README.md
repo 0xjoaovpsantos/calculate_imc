@@ -15,7 +15,7 @@
 </p>
 
 <p float="left">
-  <img src="https://github.com/joaovictorpsantos/calculate_imc/tree/master/images_readme/calculate_imc.png" width="200" />
+  <img src="https://github.com/joaovictorpsantos/calculate_imc/blob/master/images_readme/calculate_imc.png" width="200" />
 </p>
 
 ## Key Features
@@ -48,6 +48,3 @@ $ flutter run
 MIT
 
 ---
-
-> GitHub [@sabinbajracharya](https://github.com/sabinbajracharya) &nbsp;&middot;&nbsp;
-> Instagram [@er_sabin](https://www.instagram.com/er_sabin/)
