@@ -14,7 +14,7 @@
   <a href="#credits">• Credits</a>
 </p>
 
-<p>
+<p align="center">
   <img src="https://github.com/joaovictorpsantos/calculate_imc/blob/master/images_readme/calculate_imc.png" width="200" />
 </p>
 
